@@ -14,7 +14,7 @@ body{
 .container{
 	height: 350px;
 	width: 350px;
-	background: ##0065be;
+	background: #0065be;
 	position: relative;
 	border-radius: 50%;
 	overflow: hidden;
